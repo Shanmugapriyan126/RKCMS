@@ -7,7 +7,7 @@ export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
 
-    base: '/RKCMS/',
+    base: '/rkcms/',
 
     resolve: {
       alias: {
