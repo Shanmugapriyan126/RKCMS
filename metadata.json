@@ -1,0 +1,6 @@
+{
+  "name": "CHEMSAFE CMS - Plant Operations Core",
+  "description": "Internal Factory Chemical Management & EHS Executive Compliance Portal - ABC Industries (Unit IV Chennai)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
